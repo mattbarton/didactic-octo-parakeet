@@ -1,0 +1,48 @@
+body {
+    min-width: 468px !important;
+}
+
+nav {
+    min-width: 468px !important;
+	
+}
+nav .brand-name {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 34px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-top: 15px;
+}
+
+body.vintage header .brand-name {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  font-weight: 900;
+}
+
+header .intro-content {
+  width: 100%;
+}
+
+header .brand-name-subtext {
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;  
+  font-size: 40px;
+  line-height: 45px;
+  text-transform: uppercase;
+}
+h1 {
+	text-transform: none;
+}
+
+#about h3 {
+  font-size: 40px;
+}
+
+.video-style {
+  height: 200px;
+}
+
+.cta-quote {
+  line-height: 46px;
+}
